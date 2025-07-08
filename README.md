@@ -1,4 +1,4 @@
-# Terraform Azure AKS 
+# Terraform Azure AKS Example
 
 This repository provisions an AKS cluster in Azure using Terraform modules.
 
